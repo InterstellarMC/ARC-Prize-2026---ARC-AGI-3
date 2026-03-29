@@ -30,3 +30,6 @@ This agent was developed and tested using:
 * **Accelerator**: NVIDIA Tesla T4 GPU
 * **Language**: Python 3.12.12
 * **Compute Platform**: Kaggle Notebooks (GCP)
+
+
+*****As of 30th March this submission (arc-agi-3-master-agen (1).ipynb is ranked in top 5%ile of the competition
