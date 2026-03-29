@@ -24,3 +24,9 @@ To use this agent locally within the ARC-AGI-3 environment:
 * numpy
 * arc-agi
 * arcengine
+
+## 💻 Hardware Environment
+This agent was developed and tested using:
+* **Accelerator**: NVIDIA Tesla T4 GPU
+* **Language**: Python 3.12.12
+* **Compute Platform**: Kaggle Notebooks (GCP)
