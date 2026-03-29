@@ -1,0 +1,21 @@
+# GPU Acceleration (Optional for current BFS logic)
+nvidia-cuda-runtime-cu12
+nvidia-cudnn-cu12
+
+# Core Game Environment
+arc-agi==0.9.6
+arcengine==0.9.3
+
+# Data & Math
+numpy==2.0.2
+pandas
+
+# Visualization & Imaging
+matplotlib==3.10.0
+pillow==12.1.1
+
+# Infrastructure & Validation
+pydantic==2.12.3
+flask==3.1.3
+python-dotenv==1.2.1
+requests==2.32.4
